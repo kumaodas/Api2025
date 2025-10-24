@@ -1,4 +1,5 @@
-import { conmysql } from "../bd.js";
+/* import { conmysql } from "../bd.js"; */
+import conmysql from "../bd.js";
 
 // Prueba
 export const prueba = (req, res) => {
