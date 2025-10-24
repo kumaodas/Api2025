@@ -1,5 +1,6 @@
 //importante1
-import { conmysql } from "../bd.js";
+/* import { conmysql } from "../bd.js"; */
+import conmysql from "../bd.js";
 
 //prueb 1
 export const prueba=(req,res)=>{

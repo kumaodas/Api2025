@@ -1,4 +1,3 @@
-/* import { conmysql } from "../bd"; */
 import { conmysql } from "../bd.js";
 
 // Prueba
